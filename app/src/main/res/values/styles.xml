@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TimeBox" >
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/rect_trans_solid_corner</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
